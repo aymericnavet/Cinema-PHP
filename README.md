@@ -20,6 +20,10 @@ on parle ici de filtres).
 • De rechercher les films par date de projection (“Quels films passent ce soir ? !”).
 
 
+
+
+
+
 J'ai personnelement adoré ce projet car j'adore l'intéraction avec une base de données.
 
 J'ai obtenu la note de 18/20 pour ce projet.
