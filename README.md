@@ -21,6 +21,8 @@ on parle ici de filtres).
 
 
 
+Plusieurs améliorations peuvent être possible comme une refonte graphique plus ergonomique même plus jolie à regarder.
+
 
 
 
